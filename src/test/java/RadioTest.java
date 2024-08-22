@@ -162,7 +162,7 @@ public class RadioTest {
     }
 
     @Test
-    public void shouldNotSetBelowMin() { 
+    public void shouldNotSetBelowMin() {
         Radio radio = new Radio();
         radio.setCurrentVolume(0);
 
